@@ -8400,6 +8400,9 @@ h1, h2, h3, h4, h5,
     background: rgba(255, 255, 255, 0.1);
     margin-right: 2px;
     border-radius: 50%; }
+  .social-media2 p a{
+    margin-left: 25px;}
+
     .social-media p a span {
       color: #fc5e28; }
     .social-media p a:hover span {
@@ -8424,7 +8427,8 @@ h1, h2, h3, h4, h5,
     .topper .text .con {
       margin-bottom: 0;
       font-size: 12px;
-      font-weight: 300; }
+      font-weight: 300;
+      width: 270px; }
       .topper .text .con span {
         font-weight: 600;
         font-size: 13px;
@@ -8443,7 +8447,7 @@ h1, h2, h3, h4, h5,
   background: transparent !important;
   position: absolute;
   top: 200px;
-  left: 0;
+  left: -75px;
   right: 0;
   z-index: 3;
   padding: 0;
@@ -8628,7 +8632,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .0;
+    opacity: .7;
     background: #040e26; }
   .hero-wrap.hero-wrap-2 {
     height: 600px;
@@ -8661,7 +8665,8 @@ h1, h2, h3, h4, h5,
       .slider-text h1 {
         font-size: 36px; } }
   .slider-text p {
-    font-weight: 400; }
+    font-weight: 500;
+    font-size: 20px; }
     .slider-text p strong {
       font-weight: 700; }
       .slider-text p strong a {
